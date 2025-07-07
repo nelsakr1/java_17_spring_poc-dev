@@ -1,0 +1,9 @@
+
+.label-group.required .form-label:after {
+    content: "*";
+    color: red;
+}
+.error {
+    color: red;
+    margin-left: 6px;
+}
